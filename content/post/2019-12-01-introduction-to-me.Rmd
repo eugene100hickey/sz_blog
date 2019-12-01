@@ -1,0 +1,11 @@
+---
+title: Introduction to me
+author: Katie
+date: '2019-12-01'
+slug: introduction-to-me
+categories:
+  - R
+tags:
+  - postgraduate life
+---
+
